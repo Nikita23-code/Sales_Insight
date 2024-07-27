@@ -1,4 +1,8 @@
 ### Sales Insights Data Analysis Project
+This case study is based on a computer hardware business which is facing challenges in dynamically changing market. Sales director decides to invest in data analysis and he would like to build Power BI dashboard that can give him real time sales insights.
+
+### Instructions for viewing the dashboard 
+Open the pdf file and download that on your local computer.
 
 ### Instructions to setup mysql on your local computer
 
